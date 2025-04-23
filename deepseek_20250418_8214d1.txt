@@ -1,0 +1,8 @@
+student-management-app/
+├── app.py
+├── templates/
+│   ├── index.html
+│   ├── add_student.html
+│   └── edit_student.html
+├── requirements.txt
+└── config.py
